@@ -3,6 +3,14 @@
         {
             "id": 1,
             "titulo": "Entendendo testes de api"
+        },
+        {
+            "id": 2,
+            "titulo": "Entendendo testes web"
+        },
+        {
+            "id": 3,
+            "titulo": "Entendendo testes mobile"
         }
     ],
     "alunos": [
@@ -27,7 +35,20 @@
             "curso": 1
         }
     ],
-    "empresa": {
-        "nome": "iLab Quality"
-    }
+    "empresa": [
+        {
+            "nome": "iLab Quality",
+            "id": 1
+        },
+        {
+            "nome": "Microsoft",
+            "id": 2
+        },
+        {
+            "nome": "Google",
+            "id": 3
+        }
+    ]
+       
+    
 }
